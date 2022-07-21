@@ -1,7 +1,7 @@
-0bin: a client side encrypted pastebin
+Safari SOP Paste: a client side encrypted pastebin
 ===========================================
 
-0bin is a pastebin that encrypts the user content in the browser and can run without a database.
+Safari SOP Paste is a pastebin that encrypts the user content in the browser and can run without a database.
 Forked from https://github.com/Tygs/0bin
 
 It's an Python implementation of the `zerobin project`_, created by sebsauvage, under the `MIT licence`_.
@@ -12,7 +12,7 @@ To run zerobin, download zerobin.pyz from the latest release_ then:
 
     python zerobin.pyz
 
-0bin requires Python 3.7 or higher.
+Safari SOP Paste requires Python 3.7 or higher.
 
 You may need to type :code:`py -3.7 zerobin.pyz` on Windows, or :code:`python3.7 zerobin.pyz` on Mac/Linux, depending on your configuration.
 
@@ -67,7 +67,7 @@ Known issues
 .. _node.js: http://nodejs.org/
 .. _is not worth it: http://stackoverflow.com/questions/201705/how-many-random-elements-before-md5-produces-collisions
 .. _WTFPL licence: https://en.wikipedia.org/wiki/MIT_License
-.. _release: https://github.com/Tygs/0bin/releases
+.. _release: https://github.com/SafariSop/0bin/releases
 
 Contributing
 =============
