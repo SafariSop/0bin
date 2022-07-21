@@ -2,15 +2,9 @@
 ===========================================
 
 0bin is a pastebin that encrypts the user content in the browser and can run without a database.
+Forked from https://github.com/Tygs/0bin
 
-* Try it: `0bin.net <http://0bin.net>`_
-* `Report a bug <https://github.com/sametmax/0bin/issues>`_
-
-0bin allows anybody to host a pastebin while welcoming any type of content to
-be pasted in it. The idea is that one can (probably...) not be legally entitled
-to `moderate the pastebin content`_ as they have no way to decrypt it.
-
-It's an Python implementation of the `zerobin project`_, created by sebsauvage, under the `WTFPL licence`_.
+It's an Python implementation of the `zerobin project`_, created by sebsauvage, under the `MIT licence`_.
 
 To run zerobin, download zerobin.pyz from the latest release_ then:
 
@@ -72,10 +66,10 @@ Known issues
 .. _zerobin project: https://github.com/sebsauvage/ZeroBin/
 .. _node.js: http://nodejs.org/
 .. _is not worth it: http://stackoverflow.com/questions/201705/how-many-random-elements-before-md5-produces-collisions
-.. _WTFPL licence: http://en.wikipedia.org/wiki/WTFPL
+.. _WTFPL licence: https://en.wikipedia.org/wiki/MIT_License
 .. _release: https://github.com/Tygs/0bin/releases
 
 Contributing
 =============
 
-We cannot accept contributions for the moment, and will ignore PR.
+Feel free to contribute to the project.
